@@ -1,7 +1,11 @@
-The goal of assigment is to check candiate codding skills.
+### The goal of assigment is to check candiate codding skills.
 
-1.
+The task will contain 2 similar subtasks
+1. Try to categorize dataset of images in unsupervized maner
+2. Do the same but with texts
 
-https://github.com/zalandoresearch/fashion-mnist
+Result should be public github repository with instruction on how to use code.
 
-https://www.kaggle.com/jessicali9530/caltech256
+[Fashion mnist](https://github.com/zalandoresearch/fashion-mnist)
+
+[Caltech 256](https://www.kaggle.com/jessicali9530/caltech256)
